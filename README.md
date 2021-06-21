@@ -13,4 +13,7 @@ To a length, it does indeed work on `sv_pure 1` servers, but it's not persistent
 - Thank you to the following talented modelers for making your work public, God bless you all:
   - [Alaxe](https://steamcommunity.com/id/secretlyapyro), for their [Enhanced Spy](https://steamcommunity.com/sharedfiles/filedetails/?id=2191891372) model
   - [The Eminoma Team of TF2C](https://tf2classic.com/team.php) for their player models
+  - [The-Gman](https://gamebanana.com/members/1661286) for creating the [Beta Fireaxe mod](https://gamebanana.com/mods/195640)
+  - [Allen Scott](https://gamebanana.com/members/1242417) for creating the [Beta Bat mod](https://gamebanana.com/mods/196853)
+  - [Jasper](https://gamebanana.com/members/1535409) for creating the [Upgraded Normal Maps mod](https://gamebanana.com/mods/198310)
   - And steam user [Game Zombie](http://steamcommunity.com/profiles/76561198001171456), for their [High Poly Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=504711264) pack for SFM.

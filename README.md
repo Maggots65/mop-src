@@ -1,4 +1,4 @@
-![alt text](https://images.gamebanana.com/img/ss/guis/602c2082ace7d.jpg)
+![alt text](https://images.gamebanana.com/img/ss/mods/60c8dcc49ed56.jpg)
 # Maggots' Overhauled Portraits
 If you choose to disable the 3D Status portraits, you're greeted by crusty, old renders of the 9 classes, some are even from the beta of the game. Out of frustration, I decided to remake the outdated art assets of the classes.
 ## "Wait, so what does this do?"
